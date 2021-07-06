@@ -4,6 +4,7 @@ purple
 pin
 orange
 blue
+white
 red
 yellow
 green
